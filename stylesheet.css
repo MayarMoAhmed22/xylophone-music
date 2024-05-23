@@ -1,0 +1,62 @@
+body {
+  background-color: #a7967b;
+  text-align: center;
+}
+img {
+  width: 20px;
+  height: 20px;
+}
+h1 {
+  font-family: "Arvo", cursive;
+  color: white;
+  font-weight: 700;
+}
+.alp {
+  display: grid;
+  grid-template-columns: 180px 150px 120px 100px 80px 60px 50px;
+  justify-content: center;
+  gap: 40px;
+}
+
+.alpa {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #a97a57;
+  align-self: center;
+  background-color: #a97a57;
+  height: 500px;
+  align-items: center;
+  border-radius: 20px;
+  color: #bfb2a1;
+  font-size: 50pt;
+}
+.pressed {
+  box-shadow: 0 3px 4px 0 #56483b;
+  opacity: 0.5;
+  color: white;
+}
+.d {
+  height: 450px;
+}
+.e {
+  height: 400px;
+}
+.f {
+  height: 350px;
+}
+.g {
+  height: 300px;
+}
+.a {
+  height: 250px;
+}
+.b {
+  height: 200px;
+}
+h3 {
+  color: white;
+  text-align: center;
+  font-size: 15pt;
+  transform: translateY(300%);
+}
